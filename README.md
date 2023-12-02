@@ -16,4 +16,4 @@ Enhance team collaboration and cohesiveness by up to 40%
 Improve employee satisfaction and engagement by up to 25%
 This innovative solution will revolutionize remote work, empowering organizations to thrive in the digital age.
 
-![image](https://github.com/divyasp25/ConnectVerse/assets/116290434/6b26a40a-764d-4c4c-a550-ec60a91ee766)
+![image](https://github.com/divyasp25/ConnectVerse/blob/f5ccfce97bb1a6d4832c075a14481ecd11783cb7/website.png)
